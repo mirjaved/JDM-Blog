@@ -1,6 +1,6 @@
 # Laravel Blog App
 
-This is Blog developed in Laravel 8. This provides funcionaltiy to add and mange posts for various users with authorization nadn authentication.
+This is Blog developed in Laravel 8. This provides funcionaltiy to add and mange posts for various users with authorization and authentication.
 
 ## Packages
 
